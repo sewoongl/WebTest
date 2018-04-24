@@ -5,6 +5,6 @@
 		<title>WebTest</title>
 	</head>
 	<body>
-		<h2>맛있는거 먹으러 가즈아!</h2>
+		<h2 style="text-align: center;">배고파!</h2>
 	</body>
 </html>
