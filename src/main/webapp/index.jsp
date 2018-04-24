@@ -5,6 +5,6 @@
 		<title>WebTest</title>
 	</head>
 	<body>
-		<h2>Hello World!!가나요</h2>
+		<h2>맛있는거 먹으러 가즈아!</h2>
 	</body>
 </html>
